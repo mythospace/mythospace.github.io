@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "mytho.space"
+date:   2016-10-18 20:54:29 -0700
+categories: site
+---
+
+you will never know what you will find until you begin to look.
+
+often i think i know what i want, until i realize that i dont.
+
+life is an iterative process.
