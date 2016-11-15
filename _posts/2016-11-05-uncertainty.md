@@ -14,5 +14,6 @@ The concepts of certainty and reliability are useful for planning and survival a
 Unexpected events come to pass are only a detriment to the extent that our future and happiness was wrapped up in some mutually exclusive, expected events. Expected events are based on our concept of certainty and reliability projected into the future of linear time; they are based on a single possible collapse of all wave functions in the universe and are entirely fictitious to a high degree of probability. The more defined the expected event is, the lower the likelihood that it comes to pass as expected. These tools of projection are simply that, tools, concepts, ways of understanding.
 
 There are then two lessons or guidelines to be aware of as we build our Reality:
+
 * Expected events are not reality. Present happiness and identity *can not* be tied to expected future events. ("No expectations")
 * Unexpected events are an opportunity to *refine* our understanding of how things come to be.
